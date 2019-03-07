@@ -1,0 +1,16 @@
+.banner {
+  background-image: url('../../images/scratchcat.jpg') !important;
+  height: 370px;
+  color: white;
+  font-size: 18px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+@media (min-width: 576px) {
+  .banner {
+    font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  }
+}
