@@ -6,6 +6,9 @@
   margin: 15px;
   overflow: hidden;
   width: 170px;
+
+
+
 }
 
 .card:hover {
@@ -22,3 +25,7 @@
   height: 100% !important;
   width: 100% !important;
 }
+
+
+
+

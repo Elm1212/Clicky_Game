@@ -1,29 +1,32 @@
-import beth from './images/beth.png';
-import birdperson from './images/birdperson.png';
-import evilmorty from './images/evilmorty.png';
-import gianthead from './images/gianthead.png';
-import goldenford from './images/goldenford.png';
-import jerry from './images/jerry.png';
-import jessica from './images/jessica.png';
-import meeseeks from './images/meeseeks.png';
-import morty from './images/morty.png';
-import mr from './images/mr.png';
-import rick from './images/rick.png';
-import summer from './images/summer.png';
+
+import cat from './images/cat.jpeg';
+import cranky from './images/cranky.jpeg';
+import cutie from './images/cutie.jpeg';
+import grumpy from './images/grumpy.jpeg';
+import lion from './images/lion.jpg';
+import siamese from './images/siamese.jpeg';
+import tux from './images/tux.jpeg';
+import twoface from './images/twoface.jpeg';
+import white from './images/white.jpeg';
+import yelling from './images/yelling.jpeg';
+import grey from './images/grey.jpeg';
+import fluff from './images/fluff.jpeg';
 
 const images = [
-  beth,
-  birdperson,
-  evilmorty,
-  gianthead,
-  goldenford,
-  jerry,
-  jessica,
-  meeseeks,
-  morty,
-  mr,
-  rick,
-  summer
+  cat,
+  cranky,
+  cutie,
+  grumpy,
+  lion,
+  siamese,
+  tux,
+  twoface,
+  white,
+  yelling,
+  grey,
+  fluff
+
+
 ];
 
 export default images;
