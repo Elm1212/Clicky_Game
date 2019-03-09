@@ -1,3 +1,14 @@
+
+REACT CLICKY GAME --
+
+To install on your computer:
+
+- Clone this repository to your computer
+- cd into your file directory
+- npm install (to install necissary node modules)
+- npm start (this will start the application in your browser)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
