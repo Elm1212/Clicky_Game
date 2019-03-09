@@ -9,7 +9,6 @@ import Character from '../Character';
 const Container = props => (
   // loops through
 
-
   <div
     className={
       props.shake
@@ -19,7 +18,7 @@ const Container = props => (
   >
     {props.characters.map((a, i) => <Character name={a} key={i} clickEvent={props.clickEvent} />)}
   </div>
-  
+
 );
 
 export default Container;

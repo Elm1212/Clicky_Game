@@ -1,3 +1,4 @@
+
 import cat from './images/cat.jpeg';
 import cranky from './images/cranky.jpeg';
 import cutie from './images/cutie.jpeg';
@@ -24,6 +25,8 @@ const images = [
   yelling,
   grey,
   fluff
+
+
 ];
 
 export default images;
