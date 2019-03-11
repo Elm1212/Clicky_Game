@@ -82,7 +82,7 @@ class ClickyGame extends Component {
         score: score,
         highScore: highScore,
         navMsgColor: 'incorrect',
-        navMessage: 'Incorrect guess!',
+        navMessage: 'You got SCRATCHED!',
         allCharacters: shuffled,
         wasClicked: [],
         shake: true
