@@ -1,3 +1,16 @@
+
+CAT SCRATCH FEVER --
+
+In this fun little REACT app you are simply trying to get the most points by not clicking on the same CAT photo twice!  Each time you click a photo, the app will respond by adding a point to your score or telling you that YOU GOT SCRATCHED.  Also, the photos will randomly move into new positions.
+
+To install on your computer:
+
+- Clone this repository to your computer
+- cd into your file directory
+- Run npm install (to install necessary node modules)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
